@@ -29,6 +29,11 @@ Although originally created as a simple test script for iconipy, iconetto has gr
 ---
 
 ## 🚀 Installation
+**Windows (with Installer)**
+
+Download the Windows Installer from [here](https://github.com/digidigital/iconetto/releases)
+
+**Linux, Windows, macOS (via Python Package Index - PyPI)**
 
 ```bash
 pip install iconetto
